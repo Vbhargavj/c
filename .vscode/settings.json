@@ -1,0 +1,42 @@
+{
+    "files.associations": {
+        "stdio.h": "c",
+        "cmath": "c",
+        "*.tcc": "c",
+        "1.C": "cpp",
+        "math.h": "c",
+        "DSA_01 INSERTION.C": "cpp",
+        "DSA 01 INSERTION.C": "cpp",
+        "DSA_01_INSERTION.C": "cpp",
+        "string.h": "c"
+    },
+    "C_Cpp.errorSquiggles": "Disabled",
+    "sqltools.connections": [
+        {
+            "mysqlOptions": {
+                "authProtocol": "default"
+            },
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 3306,
+            "driver": "MySQL",
+            "name": "MySQL Local",
+            "database": "new_app",
+            "username": "root",
+            "password": "212223"
+        },
+        {
+            "mysqlOptions": {
+                "authProtocol": "default"
+            },
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 3306,
+            "driver": "MySQL",
+            "name": "MySQL Local",
+            "database": "new_app",
+            "username": "root",
+            "password": "212223"
+        }
+    ]
+}
